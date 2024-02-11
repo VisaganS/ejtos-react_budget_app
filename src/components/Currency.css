@@ -1,0 +1,20 @@
+.value{
+    border:none;
+    background-color: green;
+    color: white;
+    }
+    .dropdown{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+    background-color: green;
+    box-sizing: border-box;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width:fit-content;
+    }
+    
+    option{
+        color:black;
+    }
